@@ -1,0 +1,2 @@
+query,target,fident,qcov,tcov,bits,evalue
+non_t4e:WP_010947931.1,t4e:WP_010947931.1,1.0,1.0,1.0,204,2.31e-64

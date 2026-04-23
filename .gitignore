@@ -1,0 +1,10 @@
+.idea
+__pycache__
+*.pt
+*.ER
+*.OU
+*.log
+logs/wandb/
+logs/runs/
+models/
+logs/
